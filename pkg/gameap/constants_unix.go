@@ -3,7 +3,7 @@
 
 package gameap
 
-const DefaultWebInstallationPath = "/var/www/gameap"
+const DefaultWebInstallationPath = "/var/www/gameap/test"
 const DefaultWorkPath = "/srv/gameap"
 
 // Daemon.
