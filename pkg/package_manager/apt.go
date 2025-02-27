@@ -14,10 +14,10 @@ import (
 	"strconv"
 	"strings"
 
-	contextInternal "github.com/gameap/gameapctl/internal/context"
-	osinfo "github.com/gameap/gameapctl/pkg/os_info"
-	aptPkg "github.com/gameap/gameapctl/pkg/package_manager/apt"
-	"github.com/gameap/gameapctl/pkg/utils"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
+	osinfo "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/os_info"
+	aptPkg "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/package_manager/apt"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 )
 

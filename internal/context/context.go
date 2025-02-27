@@ -3,7 +3,7 @@ package context
 import (
 	"context"
 
-	osinfo "github.com/gameap/gameapctl/pkg/os_info"
+	osinfo "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/os_info"
 )
 
 type contextKey int

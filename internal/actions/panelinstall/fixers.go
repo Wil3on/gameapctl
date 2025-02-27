@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"log"
 
-	contextInternal "github.com/gameap/gameapctl/internal/context"
-	"github.com/gameap/gameapctl/pkg/fixer"
-	"github.com/gameap/gameapctl/pkg/service"
-	"github.com/gameap/gameapctl/pkg/utils"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/fixer"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/service"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 )
 

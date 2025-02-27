@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"sync"
 
-	contextInternal "github.com/gameap/gameapctl/internal/context"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
 	"github.com/gorilla/websocket"
 	"github.com/pkg/errors"
 )

@@ -12,9 +12,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/gameap/gameapctl/pkg/fixer"
-	packagemanager "github.com/gameap/gameapctl/pkg/package_manager"
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/fixer"
+	packagemanager "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/package_manager"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 )
 

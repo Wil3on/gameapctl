@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	contextInternal "github.com/gameap/gameapctl/internal/context"
-	osinfo "github.com/gameap/gameapctl/pkg/os_info"
-	"github.com/gameap/gameapctl/pkg/utils"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
+	osinfo "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/os_info"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 )
 

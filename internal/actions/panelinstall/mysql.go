@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/go-sql-driver/mysql"
 	"github.com/pkg/errors"
 )

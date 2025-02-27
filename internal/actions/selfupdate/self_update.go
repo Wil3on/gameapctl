@@ -6,9 +6,9 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/gameap/gameapctl/pkg/gameap"
-	"github.com/gameap/gameapctl/pkg/releasefinder"
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/gameap"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/releasefinder"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/minio/selfupdate"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"

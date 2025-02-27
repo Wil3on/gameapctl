@@ -8,9 +8,9 @@ import (
 	"path"
 	"path/filepath"
 
-	contextInternal "github.com/gameap/gameapctl/internal/context"
-	"github.com/gameap/gameapctl/pkg/gameap"
-	"github.com/gameap/gameapctl/pkg/utils"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/gameap"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 )
 

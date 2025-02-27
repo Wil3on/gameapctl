@@ -16,8 +16,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gameap/gameapctl/pkg/service"
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/service"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/gopherclass/go-shellquote"
 	"github.com/pkg/errors"
 	"github.com/samber/lo"

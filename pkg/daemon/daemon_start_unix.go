@@ -14,9 +14,9 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/gameap/gameapctl/pkg/gameap"
-	"github.com/gameap/gameapctl/pkg/service"
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/gameap"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/service"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 	"github.com/shirou/gopsutil/v3/process"
 )

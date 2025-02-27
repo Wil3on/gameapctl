@@ -12,20 +12,20 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/gameap/gameapctl/internal/actions/daemoninstall"
-	"github.com/gameap/gameapctl/internal/actions/daemonrestart"
-	"github.com/gameap/gameapctl/internal/actions/daemonstart"
-	"github.com/gameap/gameapctl/internal/actions/daemonstatus"
-	"github.com/gameap/gameapctl/internal/actions/daemonstop"
-	"github.com/gameap/gameapctl/internal/actions/daemonupdate"
-	"github.com/gameap/gameapctl/internal/actions/panelinstall"
-	"github.com/gameap/gameapctl/internal/actions/panelupdate"
-	"github.com/gameap/gameapctl/internal/actions/selfupdate"
-	"github.com/gameap/gameapctl/internal/actions/sendlogs"
-	"github.com/gameap/gameapctl/internal/actions/ui"
-	contextInternal "github.com/gameap/gameapctl/internal/context"
-	"github.com/gameap/gameapctl/pkg/gameap"
-	packagemanager "github.com/gameap/gameapctl/pkg/package_manager"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/daemoninstall"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/daemonrestart"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/daemonstart"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/daemonstatus"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/daemonstop"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/daemonupdate"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/panelinstall"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/panelupdate"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/selfupdate"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/sendlogs"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/actions/ui"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/gameap"
+	packagemanager "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/package_manager"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 )
@@ -40,7 +40,7 @@ func Run(args []string) {
 
 	app := &cli.App{
 		Name:      "gameapctl",
-		Usage:     "GameAP Control",
+		Usage:     "GameAP Control New version By Wilson",
 		UsageText: "Find more information at: https://docs.gameap.ru/",
 		Before: func(ctx *cli.Context) error {
 			var err error

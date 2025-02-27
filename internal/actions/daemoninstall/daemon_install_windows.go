@@ -8,8 +8,8 @@ import (
 	"os/user"
 	"strings"
 
-	packagemanager "github.com/gameap/gameapctl/pkg/package_manager"
-	"github.com/gameap/gameapctl/pkg/utils"
+	packagemanager "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/package_manager"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 )
 

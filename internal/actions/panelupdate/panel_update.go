@@ -7,10 +7,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gameap/gameapctl/internal/pkg/gameapctl"
-	"github.com/gameap/gameapctl/internal/pkg/panel"
-	packagemanager "github.com/gameap/gameapctl/pkg/package_manager"
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/pkg/gameapctl"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/pkg/panel"
+	packagemanager "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/package_manager"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 )

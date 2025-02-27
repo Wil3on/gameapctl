@@ -10,9 +10,9 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/gameap/gameapctl/pkg/gameap"
-	packagemanager "github.com/gameap/gameapctl/pkg/package_manager"
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/gameap"
+	packagemanager "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/package_manager"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 )
 

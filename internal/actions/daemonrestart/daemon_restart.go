@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gameap/gameapctl/pkg/daemon"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/daemon"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 )

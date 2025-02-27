@@ -13,11 +13,11 @@ import (
 	"strings"
 	"time"
 
-	contextInternal "github.com/gameap/gameapctl/internal/context"
-	"github.com/gameap/gameapctl/internal/pkg/gameapctl"
-	"github.com/gameap/gameapctl/pkg/daemon"
-	packagemanager "github.com/gameap/gameapctl/pkg/package_manager"
-	"github.com/gameap/gameapctl/pkg/service"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/pkg/gameapctl"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/daemon"
+	packagemanager "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/package_manager"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/service"
 	"github.com/pkg/errors"
 )
 

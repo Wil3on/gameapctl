@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	"github.com/gameap/gameapctl/pkg/utils"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/stretchr/testify/assert"
 )
 

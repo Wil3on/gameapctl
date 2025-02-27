@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/gameap/gameapctl/ui"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/ui"
 	"github.com/urfave/cli/v2"
 )
 

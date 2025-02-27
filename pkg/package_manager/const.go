@@ -1,6 +1,6 @@
 package packagemanager
 
-import osinfo "github.com/gameap/gameapctl/pkg/os_info"
+import osinfo "github.com/Wil3on/nordvik_gameap_gameapctl/pkg/os_info"
 
 const ApachePackage = "apache2"
 const ComposerPackage = "composer"

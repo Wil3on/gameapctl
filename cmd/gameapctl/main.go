@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gameap/gameapctl/internal/app"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/app"
 
 	_ "github.com/go-sql-driver/mysql"
 )

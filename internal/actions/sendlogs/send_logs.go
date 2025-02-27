@@ -10,9 +10,9 @@ import (
 	"os"
 	"path/filepath"
 
-	contextInternal "github.com/gameap/gameapctl/internal/context"
-	"github.com/gameap/gameapctl/internal/pkg/gameapctl"
-	"github.com/gameap/gameapctl/pkg/utils"
+	contextInternal "github.com/Wil3on/nordvik_gameap_gameapctl/internal/context"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/internal/pkg/gameapctl"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/utils"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 )

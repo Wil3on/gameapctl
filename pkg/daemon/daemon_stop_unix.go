@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gameap/gameapctl/pkg/service"
+	"github.com/Wil3on/nordvik_gameap_gameapctl/pkg/service"
 	"github.com/pkg/errors"
 	"github.com/shirou/gopsutil/v3/process"
 )
