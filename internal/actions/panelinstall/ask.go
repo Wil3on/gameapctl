@@ -28,7 +28,7 @@ func askUser(ctx context.Context, state panelInstallState, needToAsk map[string]
 
 	//nolint:nestif
 	if _, ok := needToAsk["path"]; ok {
-		pathText := "Enter gameap installation path (Example: /var/www/gameap): "
+		pathText := "Enter gameap installation path (Example: /var/www/gameap/test1): "
 
 		if runtime.GOOS == "windows" { //nolint:goconst
 			pathText = "Enter gameap installation path (Example: C:\\gameap\\web): "
